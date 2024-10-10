@@ -1,0 +1,1266 @@
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\CIBERTEC\EFST\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Win32.Registry.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.AccessControl.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Permissions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Principal.Windows.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\Rotativa.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarketAvanze\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Win32.Registry.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Rotativa.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.AccessControl.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Permissions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Principal.Windows.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Win32.Registry.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Rotativa.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.AccessControl.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Permissions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Principal.Windows.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll.config
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\CIBERTEC\EFST\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Rotativa.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll.config
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Usuario\Downloads\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avances\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\Avances\Avance_proyecto2\Avance_proyecto\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Win32.Registry.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Rotativa.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.AccessControl.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Permissions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Principal.Windows.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\ProyectoVentasMinimarket1\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Win32.Registry.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Rotativa.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.AccessControl.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Permissions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Principal.Windows.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll.config
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\ESTUDIOS\4to CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Win32.Registry.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Rotativa.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.ComponentModel.Annotations.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.AccessControl.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Permissions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Security.Principal.Windows.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll.config
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cors.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Localization.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.pdb
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\Newtonsoft.Json.Bson.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Buffers.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Collections.Immutable.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Memory.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Numerics.Vectors.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Reflection.Metadata.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Text.Encodings.Web.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Helpers.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Mvc.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.Razor.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\bin\Debug\System.Web.WebPages.Razor.xml
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.Up2Date
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+D:\ESTUDIOS\IV CICLO\EFSRT III\SistemaVentasMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
